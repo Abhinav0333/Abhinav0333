@@ -39,8 +39,8 @@ Exploring how systems fail so I can help make them safer. I learn through hands-
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhinav0333&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5A0&icon_color=00F5A0&text_color=C9D1D9" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav0333&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5A0&text_color=C9D1D9" alt="Most used languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhinav0333&theme=github_dark" alt="GitHub profile summary" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhinav0333&theme=github_dark" alt="Languages across repositories" />
 
 <img src="https://streak-stats.demolab.com?user=Abhinav0333&hide_border=true&background=0D1117&ring=00F5A0&fire=00F5A0&currStreakLabel=00F5A0&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
 
