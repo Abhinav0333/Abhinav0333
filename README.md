@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Animated cybersecurity profile](./cyber-hud.gif)](https://github.com/Abhinav0333/cybersecurity-portfolio)
+[![Animated cybersecurity profile](./cyber-terminal.gif)](https://github.com/Abhinav0333/cybersecurity-portfolio)
 
 <p><strong>Cybersecurity enthusiast · B.Tech Computer Science graduate · Microsoft Cybersecurity Analyst</strong></p>
 
